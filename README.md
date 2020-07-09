@@ -12,7 +12,7 @@ This repository will explain how and when to use the powerful noise suppression 
 - [AN2551 - Noise Countermeasures for ADC Applications](https://www.microchip.com/DS00002551)
 - [ATtiny817 Xplained Pro User Guide](https://www.microchip.com/DS50002684)
 - [ATtiny817 Data Sheet](https://www.microchip.com/DS40001901)
-- [Device Page](https://www.microchip.com/wwwproducts/en/ATtiny817)
+- [ATtiny817 Device Page](https://www.microchip.com/wwwproducts/en/ATtiny817)
 - [Data Visualizer Software User's Guide](https://www.microchip.com/DS40001903)
 
 ## Software Used
