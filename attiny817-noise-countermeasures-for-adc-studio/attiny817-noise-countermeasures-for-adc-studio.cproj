@@ -12,9 +12,9 @@
     <OutputFileName>$(MSBuildProjectName)</OutputFileName>
     <OutputFileExtension>.elf</OutputFileExtension>
     <OutputDirectory>$(MSBuildProjectDirectory)\$(Configuration)</OutputDirectory>
-    <AssemblyName>NoiseCountermeasuresforADCApplications</AssemblyName>
-    <Name>NoiseCountermeasuresforADCApplications</Name>
-    <RootNamespace>NoiseCountermeasuresforADCApplications</RootNamespace>
+    <AssemblyName>attiny817-noise-countermeasures-for-adc-studio</AssemblyName>
+    <Name>attiny817-noise-countermeasures-for-adc-studio</Name>
+    <RootNamespace>attiny817-noise-countermeasures-for-adc-studio</RootNamespace>
     <ToolchainFlavour>Native</ToolchainFlavour>
     <KeepTimersRunning>true</KeepTimersRunning>
     <OverrideVtor>false</OverrideVtor>
