@@ -4,17 +4,17 @@
     "content": {
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.studio.project.attiny817-noise-countermeasures-for-adc-studio",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "displayName": "Noise Countermeasures for ADC Applications",
         "projectName": "attiny817-noise-countermeasures-for-adc-studio",
         "shortDescription": "This repository will explain how and when to use the powerful noise suppression features available on the Microchip tinyAVR® 1-series and megaAVR® 0-series ADCs.",
         "ide": {
-            "name": "Studio",
+            "name": "STUDIO",
             "semverRange": ">=7.0.2397"
         },
         "compiler": [
             {
-                "name": "AVR-GCC",
+                "name": "AVR GCC",
                 "semverRange": "^5.4.0"
             }
         ],
@@ -38,13 +38,12 @@
         },
         "author": "Microchip",
         "subcategories": [
-            "START",
             [
                 "Peripherals",
                 "ADC"
             ],
             [
-                "Peripherals",                
+                "Peripherals",
                 "TCA"
             ],
             [
@@ -56,7 +55,7 @@
                 "MPLAB Data Visualizer"
             ],
             [
-                "Supporting Tools",                 
+                "Supporting Tools",
                 "Atmel Data Visualizer"
             ]
         ],
@@ -64,9 +63,7 @@
             "ADC",
             "TCA"
         ],
-        
-        "keywords": [
-        ],
+        "keywords": [],
         "additionalData": {
             "longDescription": {
                 "metaDataVersion": "1.0.0",
